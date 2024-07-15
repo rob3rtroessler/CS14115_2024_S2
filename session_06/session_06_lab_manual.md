@@ -237,7 +237,7 @@ Unlike PX, relative units like %, EM, and REM are better suited to responsive de
 
 ## Lab 06 - Tasks
 
-![Preview](img/final_result.png?raw=true "Final Result")
+![Preview](https://github.com/rob3rtroessler/CS14115_2024_S2/blob/main/session_06/img/final_result.png?raw=true "Final Result")
 
 
 Below,we find all tasks you will need to complete in order to create a dashboard grid similar to
